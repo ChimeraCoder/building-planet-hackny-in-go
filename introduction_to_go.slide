@@ -275,11 +275,14 @@ Some tools included for free in the [[http://golang.org/pkg/][standard library]]
 [[github.com/garyburd/redigo/redis][redigo]] - A Redis client library in Go
 
 
-* Conclusion
+* so back to planet hackNY
 
-- Go is *already* an excellent tool for data processing, scraping, munging, and scripting
-- Go is *becoming* an excellent tool for numerical work and scientific computation
+* 
+.image 2013-11-20-191336_1059x554_scrot.png
 
+* 
+.image 2013-11-20-190920_865x450_scrot.png
+[[https://github.com/ChimeraCoder/pluto]]
 
 
 * but what is this "hackNY" stuff all about, anyway?
